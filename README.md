@@ -39,7 +39,7 @@ An official portal template for the **State Department for Roads (Ministry of Ro
 
 1. **Clone or Download the Repository:**
 ```bash
-git clone [https://github.com/your-username/state-department-roads.git](https://github.com/your-username/state-department-roads.git)
+git clone [https://github.com/Kagai7/state-department-roads.git](https://github.com/Kagai7/state-department-roads.git)
 
 ```
 
